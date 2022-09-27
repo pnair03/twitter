@@ -23,7 +23,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/gptT1KVoCV.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-Note: App stopped working recently so login functionality is not present, will update with working GIF as soon as possible!
+Note: GIF is for older version of app, not final version. App stopped working recently so login functionality is not present, will update with most-recent working GIF as soon as possible!
 
