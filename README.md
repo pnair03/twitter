@@ -24,6 +24,9 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://g.recordit.co/LJmGU7jY4E.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+<img src='http://g.recordit.co/ikiGQ8JJON.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+Note: 20-character limit used for GIF. Actual code contains 280-character limit. Additionally, second GIF was included because Tweet API was inaccessible at the time (used too many times within 15 min).
 
 
 

@@ -176,6 +176,12 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
+                            <textField opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="248" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="9Ri-QJ-Yck" userLabel="countLabel">
+                                <rect key="frame" x="20" y="252" width="374" height="34"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="16"/>
+                                <textInputTraits key="textInputTraits"/>
+                            </textField>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="EJk-4a-v9z"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
@@ -200,12 +206,13 @@
                         </barButtonItem>
                     </navigationItem>
                     <connections>
+                        <outlet property="countLabel" destination="9Ri-QJ-Yck" id="G6O-GQ-HeR"/>
                         <outlet property="tweetTextView" destination="3ax-VJ-ng9" id="Luc-ji-cT2"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="mLc-Zk-arr" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="3851" y="33"/>
+            <point key="canvasLocation" x="3850.7246376811595" y="32.8125"/>
         </scene>
         <!--Navigation Controller-->
         <scene sceneID="qT7-mz-xcT">
